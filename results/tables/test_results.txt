@@ -1,0 +1,19 @@
+Running graph algorithm correctness tests:
+  PASS  Known MST weight
+  PASS  Disconnected graph and isolated vertex
+  PASS  Duplicate weights and multiple valid MSTs
+  PASS  Single vertex
+  PASS  Valid DAG topological ordering
+  PASS  Cycle prevents topological ordering
+  PASS  Multiple strongly connected components
+  PASS  Each vertex in exactly one SCC
+  PASS  Dijkstra distances, path and unreachable vertices
+  PASS  Zero and duplicate edge weights
+  PASS  Reject negative weights and bad sources
+  PASS  Reject unsupported graph types
+  PASS  DSU find, union and counts
+  PASS  Fixed-seed reproducible generators
+  PASS  Kruskal / Prim agreement for every graph size
+  PASS  DAG and SCC correctness for every graph size
+  PASS  Dijkstra cross-check against Bellman-Ford
+Tests passed: 17/17
